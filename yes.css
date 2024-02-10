@@ -3,6 +3,9 @@
 body{
     background: white;
     font-family: Poppins;
+display: flex;
+    justify-content: center;
+    align-items: center;}
 }
 
 .container {
@@ -29,4 +32,5 @@ body{
     display: flex;
                     justify-content: center;
                     align-items: center;
+font-size: 20px
     }
